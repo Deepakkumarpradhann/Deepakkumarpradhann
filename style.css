@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: border-box;
+    font-family: 'Gillroy';
+}
+
+html, body {
+    height:100%;
+    width:100%;
+}
+
+
+#center {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%) ;
+    width: 500px;
+    height: 200px;
+    border: 1px solid rgb(0,0,0);
+
+} 
+
